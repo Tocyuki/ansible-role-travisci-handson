@@ -1,6 +1,8 @@
 Role Name
 =========
 
+[![Build Status](https://travis-ci.org/Tocyuki/ansible-role-travisci-handson.svg?branch=master)](https://travis-ci.org/Tocyuki/ansible-role-travisci-handson)
+
 A brief description of the role goes here.
 
 Requirements
